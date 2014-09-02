@@ -1,0 +1,8 @@
+Name - Aabhas Majumdar , Gaurav Mishra
+Roll no. - 201202038 , 201202057
+
+
+****************************
+
+1) Its based on a heuristic function which was  found by playing many games;
+2) It favours making of prime(2 or more checker),hitting the opponent's blot and race condition when more than 9 checker are there in home.
